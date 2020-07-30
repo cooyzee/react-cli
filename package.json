@@ -1,0 +1,13 @@
+{
+  "name": "cooyzee-react",
+  "version": "1.0.8",
+  "description": "A simple React scaffolding.",
+  "bin": {
+    "react": "index.js"
+  },
+  "author": "Cooyzee",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.0.0"
+  }
+}
